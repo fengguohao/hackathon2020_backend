@@ -2,6 +2,8 @@
 
 ![冯虚御风标题](https://www.fguohao.top/pinxv.png)
 
+这是冯虚御风团队在微软俱乐部举办的华东hackathon2020 [https://hackathon2020eastchina.top/] 中的参赛作品，我有幸参与其中对本项目进行开发，在这里感谢团队的兄弟们的倾情付出，和大家一起用技术将想法变为现实很开心，谢谢大家。后端：李和煦 @FertileFragrance[https://github.com/FertileFragrance]  & me   前端：颜昊明 @Carl-yan-bit[https://github.com/Carl-yan-bit]  唐家伦 @skyswords7[https://github.com/skyswords7]  
+
 # 强烈建议大家移步我们的前端项目查看文档！！！！[https://github.com/pinxv/hackathon2020_frontend]
 
 ## 前言
